@@ -16,6 +16,9 @@ A simple and beginner-friendly **React Native quiz app** to test your knowledge 
 
 ## Installation
 
+1. Clone the repository:
 ```bash
+git clone https://github.com/your-username/Quiz-App.git
+cd Quiz-App
 npm install
-npx expo start
+npm start
